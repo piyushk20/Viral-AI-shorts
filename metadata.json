@@ -1,0 +1,5 @@
+{
+  "name": "Viral AI Shorts Planner",
+  "description": "An AI-powered application that generates 10 trending and viral YouTube Shorts ideas on-demand across various genres using Gemini.",
+  "requestFramePermissions": []
+}
